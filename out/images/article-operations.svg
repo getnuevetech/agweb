@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="IT operations illustration">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B2447"/>
+      <stop offset="100%" stop-color="#17366A"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <g opacity="0.35" stroke="#F1CB75" fill="none" stroke-width="2">
+    <path d="M40 420 C160 300, 280 480, 420 320 S680 220, 760 140"/>
+    <circle cx="180" cy="160" r="4" fill="#F1CB75"/>
+    <circle cx="320" cy="240" r="4" fill="#F1CB75"/>
+    <circle cx="480" cy="180" r="4" fill="#F1CB75"/>
+    <circle cx="620" cy="280" r="4" fill="#F1CB75"/>
+    <path d="M180 160L320 240L480 180L620 280"/>
+  </g>
+  <rect x="120" y="110" width="560" height="280" rx="18" fill="#F5F7FB" opacity="0.95"/>
+  <rect x="150" y="145" width="220" height="18" rx="9" fill="#D9A441"/>
+  <rect x="150" y="185" width="500" height="12" rx="6" fill="#DCE3ED"/>
+  <rect x="150" y="215" width="460" height="12" rx="6" fill="#DCE3ED"/>
+  <rect x="150" y="245" width="390" height="12" rx="6" fill="#DCE3ED"/>
+  <rect x="150" y="300" width="160" height="40" rx="10" fill="#17366A"/>
+  <text x="400" y="460" text-anchor="middle" fill="#F1CB75" font-family="Georgia, serif" font-size="22">IT operations illustration</text>
+</svg>

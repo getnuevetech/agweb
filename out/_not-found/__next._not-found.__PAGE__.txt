@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0pax-5aw6ocfs.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:I[22016,["$3"],""]
+b:I[97367,["$3"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$3"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$3"],"$11"]
+13:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"className":"section-y bg-white","children":["$","div",null,{"className":"mx-auto w-full max-w-content px-5 md:px-6 lg:px-8 max-w-2xl text-center","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.14em] text-navy-light","children":"404"}],["$","h1",null,{"className":"mt-3 font-display text-fluid-h1 font-semibold text-ink","children":"Page not found"}],["$","p",null,{"className":"mt-4 text-ink-muted","children":"The page you requested is unavailable. It may have moved or is not published yet."}],["$","div",null,{"className":"mt-8 flex flex-col justify-center gap-3 sm:flex-row","children":[["$","$La",null,{"href":"/","className":"inline-flex min-h-11 items-center justify-center gap-2 rounded-lg px-5 py-2.5 text-sm font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-60 bg-gradient-to-r from-gold to-gold-light text-navy-deep hover:brightness-95 focus-visible:ring-gold","children":["$undefined",["$","span",null,{"children":"Back to Home"}]]}],["$","$La",null,{"href":"/contact/","className":"inline-flex min-h-11 items-center justify-center gap-2 rounded-lg px-5 py-2.5 text-sm font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-60 border border-navy-base text-navy-base bg-transparent hover:bg-navy-base/5 focus-visible:ring-navy-base","children":["$undefined",["$","span",null,{"children":"Contact Me"}]]}]]}]]}]}],null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$8"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Agboola Olomola | IT Consultant and Technology Strategist"}],["$","meta","1",{"name":"description","content":"IT consulting, systems administration, technology operations, and digital product initiatives with Agboola Olomola."}],["$","meta","2",{"property":"og:title","content":"Agboola Olomola | IT Consultant and Technology Strategist"}],["$","meta","3",{"property":"og:description","content":"Practical technology support for operations, systems, and digital product initiatives."}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Agboola Olomola | IT Consultant and Technology Strategist"}],["$","meta","7",{"name":"twitter:description","content":"Practical technology support for operations, systems, and digital product initiatives."}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L13","9",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$8"}},"a":"$@15","u":"$@16","b":"eRvAYY4QW4C8vzwh49i1c"}
+d:null
+16:true
+8:300
+8:C
+15:0
+6:"$undefined"
+14:"$undefined"
+e:"$undefined"

@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/0pax-5aw6ocfs.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/_next/static/chunks/1vjl4h91yomi5.js"
+b:I[5500,["$3","$a"],"Image"]
+c:I[22016,["$3","$a"],""]
+d:I[97367,["$3"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$3"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$3"],"$13"]
+15:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"relative overflow-hidden bg-navy-deep text-white","children":[["$","div",null,{"aria-hidden":"true","className":"pointer-events-none absolute inset-0 bg-[url('/images/bg-hero.jpg')] bg-cover bg-center opacity-45"}],["$","div",null,{"className":"relative","children":["$","div",null,{"className":"mx-auto w-full max-w-content px-5 md:px-6 lg:px-8 grid items-center gap-10 py-16 md:py-20 lg:grid-cols-12 lg:gap-12","children":[["$","div",null,{"className":"lg:col-span-7","children":["$undefined",null,["$","h1",null,{"className":"font-display text-fluid-h1 font-semibold tracking-tight text-balance","children":["Notes on ",["$","span",null,{"className":"text-gold","children":"technology"}]," and business"]}],["$","p",null,{"className":"mt-5 max-w-2xl text-base leading-relaxed text-white/80 md:text-lg","children":"Practical observations on IT operations, automation, systems integration, and digital product development."}],null]}],["$","div",null,{"className":"flex justify-center lg:col-span-5 lg:justify-end","children":["$","div",null,{"className":"relative overflow-hidden rounded-[1.25rem] border-2 border-gold shadow-card h-64 w-64 max-w-[280px] md:h-80 md:w-80","children":["$","$Lb",null,{"src":"/images/portrait.jpg","alt":"Agboola Olomola in a navy polo shirt","fill":true,"priority":true,"className":"object-cover object-top","sizes":"(max-width: 768px) 280px, 320px"}]}]}]]}]}]]}],["$","section",null,{"className":"section-y bg-white","children":["$","div",null,{"className":"mx-auto w-full max-w-content px-5 md:px-6 lg:px-8","children":["$","div",null,{"className":"rounded-xl border border-line bg-surface-cool p-10 text-center","children":[["$","p",null,{"className":"text-lg text-ink","children":"Articles are being prepared."}],["$","p",null,{"className":"mt-2 text-ink-muted","children":"Draft topics are in review and will appear here once published."}],["$","$Lc",null,{"href":"/contact/","className":"inline-flex min-h-11 items-center justify-center gap-2 rounded-lg px-5 py-2.5 text-sm font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-60 border border-navy-base text-navy-base bg-transparent hover:bg-navy-base/5 focus-visible:ring-navy-base mt-6","children":["$undefined",["$","span",null,{"children":"Contact Me"}]]}]]}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/1vjl4h91yomi5.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$8"}}]]
+1:[["children",{"s":"blog","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Blog | Agboola Olomola | Agboola Olomola"}],["$","meta","1",{"name":"description","content":"Practical observations on IT operations, automation, systems integration, and digital product development."}],["$","meta","2",{"property":"og:title","content":"Blog | Agboola Olomola"}],["$","meta","3",{"property":"og:description","content":"Practical observations on IT operations, automation, systems integration, and digital product development."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/images/portrait.jpg"}],["$","meta","5",{"property":"og:image:alt","content":"Agboola Olomola in a navy polo shirt"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Blog | Agboola Olomola"}],["$","meta","9",{"name":"twitter:description","content":"Practical observations on IT operations, automation, systems integration, and digital product development."}],["$","meta","10",{"name":"twitter:image","content":"http://localhost:3000/images/portrait.jpg"}],["$","meta","11",{"name":"twitter:image:alt","content":"Agboola Olomola in a navy polo shirt"}],["$","link","12",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$8"}},"a":"$@17","u":"$@18","b":"eRvAYY4QW4C8vzwh49i1c"}
+f:null
+18:true
+8:300
+8:C
+17:0
+6:"$undefined"
+16:"$undefined"
+10:"$undefined"
