@@ -1,0 +1,19 @@
+[Unit]
+Description=Agboola Olomola website contact API
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/agweb
+EnvironmentFile=-/etc/agweb/mail.env
+Environment=PORT=8787
+Environment=HOST=127.0.0.1
+Environment=INQUIRY_STORE=/var/lib/agweb/inquiries
+ExecStart=/usr/bin/node /var/www/agweb/server/contact-server.mjs
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

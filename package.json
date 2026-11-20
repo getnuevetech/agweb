@@ -1,0 +1,31 @@
+{
+  "name": "agweb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agboola Olomola personal website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit",
+    "contact:dev": "CONTACT_DEV_FALLBACK=1 INQUIRY_STORE=./.data/inquiries PORT=8787 node server/contact-server.mjs"
+  },
+  "dependencies": {
+    "next": "^16.4.6",
+    "nodemailer": "^10.6.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/nodemailer": "^8.0.2",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16.4.6",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
