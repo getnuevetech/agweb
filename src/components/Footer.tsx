@@ -77,12 +77,6 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a className="inline-flex items-center gap-2 hover:text-white" href={`mailto:${site.emails.secondary}`}>
-                  <IconMail className="h-4 w-4 text-gold" />
-                  {site.emails.secondary}
-                </a>
-              </li>
-              <li>
                 <a className="inline-flex items-center gap-2 hover:text-white" href={`tel:${site.phone.tel}`}>
                   <IconPhone className="h-4 w-4 text-gold" />
                   {site.phone.display}

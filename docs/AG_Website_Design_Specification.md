@@ -6,7 +6,7 @@ Build a responsive personal website for Agboola Olomola that presents his IT con
 
 Use the approved navy blue and gold homepage with technology backgrounds as the visual foundation. This document defines the additional pages, proposed website copy, interactions, responsive behavior, data requirements, and acceptance criteria. The accompanying visual boards illustrate the page composition. Implement the website as responsive components with live text and accessible controls.
 
-The latest user decisions are authoritative. Use an AG monogram, a navy polo portrait, Houston location, and only the two approved email addresses. Use circuit traces, connected nodes, and flowing data textures in the backgrounds. Keep decorative patterns subtle around reading areas.
+The latest user decisions are authoritative. Use an AG monogram, page-specific cartoon navy-polo portraits, Houston location, and only the approved email `a@agboolaolomola.com`. Use circuit traces, connected nodes, and flowing data textures in the backgrounds. Keep decorative patterns subtle around reading areas.
 
 The website copy below is proposed editorial content. The resume source contains dates and credentials that still require confirmation. Numeric achievements, the sample testimonial, and the dated career timeline in the original homepage image are design placeholders. Their launch treatment is specified here.
 
@@ -102,7 +102,7 @@ The Experience Highlights section introduces technology consulting, technical su
 
 Selected Work uses approved initiative cards, initially prepared for SautiCall, Influrios, and SquadPay. Show actual availability and approved descriptions. The generic transformation case studies in the original image are templates, not established achievements. View All Projects opens /projects.
 
-Services shows the four service areas. The sample “Former Manager” testimonial remains hidden until an authentic quote and attribution are approved. Collapse that section cleanly when empty. The final contact band contains the two approved emails, mobile number, location, Request a Consultation, and Send a Message.
+Services shows the four service areas. The sample “Former Manager” testimonial remains hidden until an authentic quote and attribution are approved. Collapse that section cleanly when empty. The final contact band contains the approved email, mobile number, location, Request a Consultation, and Send a Message.
 
 ## 06 About page design and copy
 
@@ -222,9 +222,8 @@ H1 is “Let’s work together.” Introductory copy is “Tell me what you are 
 
 | Contact field | Exact display value | Interaction |
 | --- | --- | --- |
-| Primary email | a@agboolaolomola.com | mailto link |
-| Secondary email | ag@richardwinfred.com | mailto link |
-| Mobile | +1 832 593 3512 | tel:+18325933512 |
+| Email | a@agboolaolomola.com | mailto link |
+| Mobile | +1 979 800 9800 | tel:+19798009800 |
 | Location | Houston, Texas (On-Site & Remote) | Plain text |
 
 Use tabs “Message” and “Consultation.” A direct link with intent=consultation opens the Consultation tab. Tabs must support keyboard navigation and expose their selected state. Changing tabs should preserve compatible values already entered.
@@ -276,7 +275,7 @@ Respect reduced-motion preferences. Use static background artwork by default. If
 
 Reuse the existing framework and content platform where practical. Keep templates separate from content records so the owner can update project descriptions, articles, contact details, and resume files without editing layout code. A custom admin portal is outside this handoff unless separately commissioned.
 
-Site settings contain display name, monogram asset, portrait asset, two emails, mobile display and machine-readable value, location, social URLs, resume file, consultation configuration, and optional newsletter configuration. Keep contact values in one place and render them consistently across pages and metadata.
+Site settings contain display name, monogram asset, per-page portrait assets, one email, mobile display and machine-readable value, location, social URLs, resume file, consultation configuration, and optional newsletter configuration. Keep contact values in one place and render them consistently across pages and metadata.
 
 An experience record contains organization, role, summary, bullets, optional start and end dates, current flag, display order, verified flag, and publication status. Missing dates render without a badge. A service record contains stable slug, title, introduction, scope items, typical deliverables, FAQ entries, and contact topic mapping.
 
@@ -312,7 +311,7 @@ Acceptance checks include all seven primary routes, detail pages, legal routes, 
 
 Test layouts at 360, 390, 768, 1024, and 1440 px, with a separate reflow check at 320 px. Confirm no clipped text, horizontal page overflow, obscured CTA, or unreadable pattern overlap. Test both mouse and keyboard behavior. Verify image loading, alt text, print styling, and the actual resume download. Validate contrast against the rendered background rather than the palette swatch alone.
 
-Content acceptance requires AG branding, navy polo portrait, navy-and-gold technology backgrounds, the two approved emails, the exact mobile number, Houston location, and consistent conversion wording. Search the project for the removed Gmail and Kwik Tech email and remove them from public website content. Audit all social and external links. Verify that placeholder statistics, quotes, dates, and unapproved drafts are absent from production.
+Content acceptance requires AG branding, navy polo cartoon portraits, navy-and-gold technology backgrounds, email `a@agboolaolomola.com` only, mobile `+1 979 800 9800`, Houston location, and consistent conversion wording. Search the project for removed secondary emails (including richardwinfred, Gmail, and Kwik Tech) and remove them from public website content. Audit all social and external links. Verify that placeholder statistics, quotes, dates, and unapproved drafts are absent from production.
 
 Before launch, resolve the public domain, approved resume file, exact employment dates and credentials, publishable project descriptions and images, receiving mailbox, scheduling mode, actual privacy practices, and optional newsletter provider. Each missing optional item should have a deliberate hidden or empty state. A working inquiry path and accurate public identity content are required for release.
 

@@ -17,6 +17,7 @@ export default function ResumePage() {
   return (
     <>
       <PageHero
+        portraitVariant="resume"
         title={
           <>
             Experience and <span className="text-gold">capabilities</span>

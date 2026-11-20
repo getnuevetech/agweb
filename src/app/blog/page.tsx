@@ -19,6 +19,7 @@ export default function BlogPage() {
   return (
     <>
       <PageHero
+        portraitVariant="blog"
         title={
           <>
             Notes on <span className="text-gold">technology</span> and business

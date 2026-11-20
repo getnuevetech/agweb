@@ -89,7 +89,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="flex justify-center lg:col-span-5 lg:justify-end">
-            <Portrait priority />
+            <Portrait priority variant="home" />
           </div>
         </Container>
       </section>
@@ -230,10 +230,6 @@ export default function HomePage() {
             <li className="flex items-center gap-3">
               <IconMail className="h-5 w-5 text-gold" />
               <a href={`mailto:${site.emails.primary}`}>{site.emails.primary}</a>
-            </li>
-            <li className="flex items-center gap-3">
-              <IconMail className="h-5 w-5 text-gold" />
-              <a href={`mailto:${site.emails.secondary}`}>{site.emails.secondary}</a>
             </li>
             <li className="flex items-center gap-3">
               <IconPhone className="h-5 w-5 text-gold" />

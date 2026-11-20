@@ -36,7 +36,8 @@ Static files are written to `out/`.
 
 ## Content rules (launch)
 
-- Use only approved emails: `a@agboolaolomola.com`, `ag@richardwinfred.com`
+- Use only the approved email: `a@agboolaolomola.com`
+- Mobile: `+1 979 800 9800` (`tel:+19798009800`)
 - Consultation CTAs use **Request a Consultation** (request mode)
 - Homepage stats are qualitative (no unverified metrics)
 - Employment date badges omitted until confirmed

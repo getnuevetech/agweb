@@ -1,3 +1,15 @@
+export const portraitVariants = {
+  home: "/images/portrait-home.jpg",
+  about: "/images/portrait-about.jpg",
+  resume: "/images/portrait-resume.jpg",
+  services: "/images/portrait-services.jpg",
+  projects: "/images/portrait-projects.jpg",
+  blog: "/images/portrait-blog.jpg",
+  contact: "/images/portrait-contact.jpg",
+} as const;
+
+export type PortraitVariant = keyof typeof portraitVariants;
+
 export const site = {
   name: "Agboola Olomola",
   monogram: "AG",
@@ -9,19 +21,19 @@ export const site = {
   locationShort: "Houston, Texas",
   emails: {
     primary: "a@agboolaolomola.com",
-    secondary: "ag@richardwinfred.com",
   },
   phone: {
-    display: "+1 832 593 3512",
-    tel: "+18325933512",
+    display: "+1 979 800 9800",
+    tel: "+19798009800",
   },
   social: {
     linkedin: "https://www.linkedin.com/in/agolomola/",
   },
   portrait: {
-    src: "/images/portrait.jpg",
-    alt: "Agboola Olomola in a navy polo shirt",
+    src: portraitVariants.home,
+    alt: "Illustrated portrait of Agboola Olomola in a navy polo shirt",
   },
+  portraits: portraitVariants,
   resumePdf: null as string | null,
   consultationMode: "request" as const,
   newsletterEnabled: false,

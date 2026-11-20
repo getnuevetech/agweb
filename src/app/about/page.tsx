@@ -59,6 +59,7 @@ export default function AboutPage() {
   return (
     <>
       <PageHero
+        portraitVariant="about"
         title={
           <>
             Technology with a <span className="text-gold">business mindset</span>
