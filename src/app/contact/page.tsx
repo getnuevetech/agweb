@@ -15,6 +15,7 @@ export default function ContactPage() {
   return (
     <>
       <PageHero
+        portraitVariant="contact"
         title={
           <>
             Let’s <span className="text-gold">work</span> together
@@ -33,18 +34,8 @@ export default function ContactPage() {
               >
                 <IconMail className="mt-0.5 h-5 w-5 text-gold" />
                 <div>
-                  <p className="text-sm font-semibold text-ink">Primary email</p>
+                  <p className="text-sm font-semibold text-ink">Email</p>
                   <p className="text-ink-muted">{site.emails.primary}</p>
-                </div>
-              </a>
-              <a
-                href={`mailto:${site.emails.secondary}`}
-                className="card flex items-start gap-3 transition hover:border-gold"
-              >
-                <IconMail className="mt-0.5 h-5 w-5 text-gold" />
-                <div>
-                  <p className="text-sm font-semibold text-ink">Secondary email</p>
-                  <p className="text-ink-muted">{site.emails.secondary}</p>
                 </div>
               </a>
               <a

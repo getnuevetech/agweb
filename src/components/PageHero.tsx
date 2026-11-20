@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import type { PortraitVariant } from "@/content/site";
 import { Container } from "./Container";
 import { Portrait } from "./Portrait";
 import { SectionEyebrow } from "./SectionHeading";
@@ -9,6 +10,7 @@ export function PageHero({
   description,
   actions,
   showPortrait = true,
+  portraitVariant = "home",
   breadcrumb,
 }: {
   eyebrow?: string;
@@ -16,6 +18,7 @@ export function PageHero({
   description?: ReactNode;
   actions?: ReactNode;
   showPortrait?: boolean;
+  portraitVariant?: PortraitVariant;
   breadcrumb?: ReactNode;
 }) {
   return (
@@ -45,7 +48,7 @@ export function PageHero({
           </div>
           {showPortrait ? (
             <div className="flex justify-center lg:col-span-5 lg:justify-end">
-              <Portrait priority />
+              <Portrait priority variant={portraitVariant} />
             </div>
           ) : null}
         </Container>

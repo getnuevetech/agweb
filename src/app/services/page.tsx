@@ -19,6 +19,7 @@ export default function ServicesPage() {
   return (
     <>
       <PageHero
+        portraitVariant="services"
         eyebrow="Services • IT Support • Operations • Product"
         title={
           <>

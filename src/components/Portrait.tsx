@@ -1,15 +1,17 @@
 import Image from "next/image";
-import { site } from "@/content/site";
+import { site, type PortraitVariant } from "@/content/site";
 import { cx } from "@/lib/utils";
 
 export function Portrait({
   className,
   priority = false,
   size = "lg",
+  variant = "home",
 }: {
   className?: string;
   priority?: boolean;
   size?: "sm" | "md" | "lg";
+  variant?: PortraitVariant;
 }) {
   const sizes = {
     sm: "h-40 w-40",
@@ -26,7 +28,7 @@ export function Portrait({
       )}
     >
       <Image
-        src={site.portrait.src}
+        src={site.portraits[variant]}
         alt={site.portrait.alt}
         fill
         priority={priority}

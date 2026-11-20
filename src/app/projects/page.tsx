@@ -19,6 +19,7 @@ export default function ProjectsPage() {
   return (
     <>
       <PageHero
+        portraitVariant="projects"
         eyebrow="Projects • Initiatives • Solutions"
         title={
           <>
