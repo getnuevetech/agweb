@@ -6,7 +6,7 @@ Build a responsive personal website for Agboola Olomola that presents his IT con
 
 Use the approved navy blue and gold homepage with technology backgrounds as the visual foundation. This document defines the additional pages, proposed website copy, interactions, responsive behavior, data requirements, and acceptance criteria. The accompanying visual boards illustrate the page composition. Implement the website as responsive components with live text and accessible controls.
 
-The latest user decisions are authoritative. Use an AG monogram, page-specific cartoon navy-polo portraits, Houston location, and only the approved email `a@agboolaolomola.com`. Use circuit traces, connected nodes, and flowing data textures in the backgrounds. Keep decorative patterns subtle around reading areas.
+The latest user decisions are authoritative. Use an AG monogram, page-specific cartoon portraits with varied shirts and colors, Houston location, and only the approved email `a@agboolaolomola.com`. Use circuit traces, connected nodes, and flowing data textures in the backgrounds. Keep decorative patterns subtle around reading areas.
 
 The website copy below is proposed editorial content. The resume source contains dates and credentials that still require confirmation. Numeric achievements, the sample testimonial, and the dated career timeline in the original homepage image are design placeholders. Their launch treatment is specified here.
 
@@ -70,7 +70,7 @@ Technology background treatment follows a hierarchy. The homepage hero has the s
 
 Keep dense patterns away from paragraphs and controls. Use a navy overlay or a quiet gradient beneath white text. Decorative artwork must be separate from content, excluded from accessibility semantics, and unable to intercept pointer events. Do not bake readable text into background images. Use the approved artwork as visual guidance and create reusable optimized image layers for implementation.
 
-The portrait must depict Agboola in a navy polo, with glasses and gray goatee. Use the approved edited portrait or a supplied original processed consistently with it. Do not swap in a stock person. The background of the portrait is neutral and the head must have adequate space above it. A chest-up crop should show the polo collar.
+Each page uses a tailored cartoon portrait of Agboola (bald, glasses, gray goatee) with a distinct shirt style and color—for example navy polo (Home), charcoal sweater (About), suit and gold tie (Resume), teal button-down (Services), burgundy polo (Projects), sage cardigan (Blog), and sky-blue polo (Contact). Do not swap in a stock person. Keep chest-up framing with adequate headroom.
 
 Project images should be owner-approved product screenshots where available. Until they are provided, use clearly identified illustrative previews on private review builds. Blog images may use licensed technology photography or original illustrations appropriate to the article. Do not imply that generic stock photography depicts a client installation.
 
@@ -311,7 +311,7 @@ Acceptance checks include all seven primary routes, detail pages, legal routes, 
 
 Test layouts at 360, 390, 768, 1024, and 1440 px, with a separate reflow check at 320 px. Confirm no clipped text, horizontal page overflow, obscured CTA, or unreadable pattern overlap. Test both mouse and keyboard behavior. Verify image loading, alt text, print styling, and the actual resume download. Validate contrast against the rendered background rather than the palette swatch alone.
 
-Content acceptance requires AG branding, navy polo cartoon portraits, navy-and-gold technology backgrounds, email `a@agboolaolomola.com` only, mobile `+1 979 800 9800`, Houston location, and consistent conversion wording. Search the project for removed secondary emails (including richardwinfred, Gmail, and Kwik Tech) and remove them from public website content. Audit all social and external links. Verify that placeholder statistics, quotes, dates, and unapproved drafts are absent from production.
+Content acceptance requires AG branding, page-specific cartoon portraits with varied attire, navy-and-gold technology backgrounds, email `a@agboolaolomola.com` only, mobile `+1 979 800 9800`, Houston location, and consistent conversion wording. Search the project for removed secondary emails (including richardwinfred, Gmail, and Kwik Tech) and remove them from public website content. Audit all social and external links. Verify that placeholder statistics, quotes, dates, and unapproved drafts are absent from production.
 
 Before launch, resolve the public domain, approved resume file, exact employment dates and credentials, publishable project descriptions and images, receiving mailbox, scheduling mode, actual privacy practices, and optional newsletter provider. Each missing optional item should have a deliberate hidden or empty state. A working inquiry path and accurate public identity content are required for release.
 

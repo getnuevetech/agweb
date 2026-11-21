@@ -31,7 +31,7 @@ export const site = {
   },
   portrait: {
     src: portraitVariants.home,
-    alt: "Illustrated portrait of Agboola Olomola in a navy polo shirt",
+    alt: "Illustrated portrait of Agboola Olomola",
   },
   portraits: portraitVariants,
   resumePdf: null as string | null,

@@ -4,7 +4,7 @@ Read AG_Website_Design_Specification.md for the exact implementation requirement
 
 Visuals includes the approved homepage, eight additional desktop page designs across four boards, and a mobile interaction board. These are design references. The written specification overrides inconsistent generated copy. Section 19 lists specific corrections.
 
-Use responsive components, accessible HTML, and editable content. Preserve the approved AG identity, page-specific cartoon navy polo portraits, navy and gold technology backgrounds, email `a@agboolaolomola.com`, and mobile `+1 979 800 9800`. Confirm source-dependent content before publication. Project previews and article drafts need owner review.
+Use responsive components, accessible HTML, and editable content. Preserve the approved AG identity, page-specific cartoon portraits with varied shirts and colors, navy and gold technology backgrounds, email `a@agboolaolomola.com`, and mobile `+1 979 800 9800`. Confirm source-dependent content before publication. Project previews and article drafts need owner review.
 
 Suggested developer AI instruction
 
