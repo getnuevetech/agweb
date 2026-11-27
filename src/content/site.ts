@@ -1,11 +1,11 @@
 export const portraitVariants = {
-  home: "/images/portrait-home.jpg",
-  about: "/images/portrait-about.jpg",
-  resume: "/images/portrait-resume.jpg",
-  services: "/images/portrait-services.jpg",
-  projects: "/images/portrait-projects.jpg",
-  blog: "/images/portrait-blog.jpg",
-  contact: "/images/portrait-contact.jpg",
+  home: "/images/portrait-home-v2.jpg",
+  about: "/images/portrait-about-v2.jpg",
+  resume: "/images/portrait-resume-v2.jpg",
+  services: "/images/portrait-services-v2.jpg",
+  projects: "/images/portrait-projects-v2.jpg",
+  blog: "/images/portrait-blog-v2.jpg",
+  contact: "/images/portrait-contact-v2.jpg",
 } as const;
 
 export type PortraitVariant = keyof typeof portraitVariants;
