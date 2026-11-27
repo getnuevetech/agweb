@@ -22,7 +22,7 @@ export function pageMetadata({
       title: fullTitle,
       description,
       type: "website",
-      images: [{ url: "/images/portrait.jpg", alt: site.portrait.alt }],
+      images: [{ url: site.portrait.src, alt: site.portrait.alt }],
     },
     twitter: {
       card: "summary_large_image",

@@ -72,6 +72,19 @@ sudo WWW=1 bash deploy/lightsail-setup.sh yourdomain.com you@yourdomain.com
 ./deploy/push.sh ubuntu@STATIC_IP
 ```
 
+## Deploy updates on the Lightsail server (already cloned)
+
+When `main` already contains a rebuilt `out/` (no build needed on the small instance):
+
+```bash
+cd /var/www/agweb
+sudo git fetch origin main
+sudo git reset --hard origin/main
+sudo systemctl reload nginx
+```
+
+Hard-refresh the browser (Ctrl/Cmd+Shift+R) after deploy — nginx caches images for 7 days, so new portrait filenames (`*-v2.jpg`) are used when avatars change.
+
 ## Routes
 
 `/`, `/about`, `/resume`, `/services`, `/projects`, `/projects/[slug]`, `/blog`, `/blog/[slug]`, `/contact`, `/privacy`, `/terms`, plus branded 404.
